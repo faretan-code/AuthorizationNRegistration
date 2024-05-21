@@ -177,7 +177,7 @@ function loginUser(event) {
         loader.style.display = 'none';
         alert('Успішний вхід! ⭐');
         resetValidationStyles();
-        window.location.href = '../Social Network Friend Search/index.html';
+        window.location.href = 'https://faretan-code.github.io/Social-Network-Friend-Search/';
         document.getElementById('loginForm').reset();
     }, 1500);
 
